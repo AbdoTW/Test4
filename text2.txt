@@ -1,0 +1,6 @@
+Welcom to text2 file !
+
+What's you name ?
+
+How are you ? 
+ I'm fine .
